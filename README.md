@@ -7,9 +7,7 @@
 
 # Responsive Design
 
-![Image](https://github.com/user-attachments/assets/6663167b-8ed3-46aa-9688-4fc9eb115f68)
-
-![Image](https://github.com/user-attachments/assets/a2b1b89a-4185-4709-94d9-4e3c8ee24b5e)
+![Image](https://github.com/user-attachments/assets/7168a762-edb1-46b3-bf2a-c1689b61f019)
 
 - [Demo Project](https://parisamohebweb.github.io/darkMode/)
 
